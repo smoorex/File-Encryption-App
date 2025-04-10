@@ -32,8 +32,7 @@ This project is a Python-based GUI application for encrypting and decrypting fil
 
 ## 🚀 Running the App Locally
 
-### 1. Clone the Repository
+### 1. Download the 'ZIP' File
 
-```bash
-git clone https://github.com/smoorex/File-Encryption-App.git
-cd File-Encryption-App
+Open the 'Disk' folder inside the root of the project
+Run the SecureEncryptor.exe File
